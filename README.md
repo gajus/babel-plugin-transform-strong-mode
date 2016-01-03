@@ -6,8 +6,6 @@
 
 Places `"use strong";` directive at the top of all files to enable [strong mode](https://developers.google.com/v8/experiments?hl=en#strong-mode).
 
-This plugin places a "use strict"; directive at the top of all files to enable strict mode.
-
 ## Example
 
 Converts:
