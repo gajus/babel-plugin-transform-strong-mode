@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-transform-strong-mode",
   "description": "Places \"use strong\"; directive at the top of all files to enable strong mode.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
